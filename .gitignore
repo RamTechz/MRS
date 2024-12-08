@@ -1,3 +1,8 @@
 env/
-.ipynb_checkpoints
+.ipynb_checkpoints/
 dataset/
+Deploy/venv
+Deploy/.idea/
+.idea/
+Deploy/similarity.pkl
+Deploy/movies.pkl
