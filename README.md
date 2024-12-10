@@ -29,6 +29,6 @@ This project is a movie recommendation system that suggests similar movies based
 4. **Deployment:**
    - Serializes the processed data and similarity matrix for efficient re-use.
 
-# **Image**
+# **ScreenShots**
 
-![Movie Recommendation System Demo](images/demo.png "Movie Recommendation System")
+![Movie Recommendation System Demo](images/demo.png)
