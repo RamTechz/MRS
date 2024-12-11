@@ -4,5 +4,3 @@ dataset/
 Deploy/venv
 Deploy/.idea/
 .idea/
-Deploy/similarity.pkl
-Deploy/movies.pkl
